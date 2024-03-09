@@ -3,6 +3,6 @@
 *morteza*
 *computar*
 ---
-``JavaScript
-let a= 10;
-``
+```html
+<h1>shokri</h1>;
+```
