@@ -2,4 +2,4 @@
 # استارت برای ساخت شبیه ساز ترمینال در محیط وب
 ### این صرفا یک ایده هست و دوست دایم پیش بریم ببینیم چالش هاش چی میتونه باشه، بیشتر منطقش باید مهم باشه و عملکردش
 # [Visit in paige](https://alireza-shokri.github.io/chang-contry)
-![viduo](https://www.instagram.com/reel/C1KUIEetySB/?igsh=MXNiejRuNDUyMnMzYQ==)
+
