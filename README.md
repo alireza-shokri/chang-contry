@@ -1,12 +1,4 @@
-# alireza
----
-*morteza*
-*computar*
----
-```html
-<h1>shokri</h1>;
-```
-![imgsity](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREzyzmoI9jGnftgrtxisYNA3UUipQ9wqw0ZQ&usqp=CAU)
-![imgsijty](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrO_NGquKOv9VIyQBB9MI3jNutEw2sOaX8GA&usqp=CAU)
-
+# start in textUI for Simulator terminal
+# استارت برای ساخت شبیه ساز ترمینال در محیط وب
+### این صرفا یک ایده هست و دوست دایم پیش بریم ببینیم چالش هاش چی میتونه باشه، بیشتر منطقش باید مهم باشه و عملکردش
 # [Visit in paje](https://alireza-shokri.github.io/chang-contry)
